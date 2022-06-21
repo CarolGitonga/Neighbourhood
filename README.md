@@ -29,7 +29,7 @@ To get the project .......
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd project-awwards pip install -r requirements.txt 
+cd project-neighbourhood pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual  
  ```bash 
