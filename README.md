@@ -6,7 +6,7 @@
 # Description  
 This is a project where a user must signup first, be able to join a hood owned by the hood admin, and once you join a hood, one can see businesses and posts in only that hood they belong to.
 ##  Live Link  
- Click [View Site]()  to visit the site
+ Click [View Site](https://carolneighbour.herokuapp.com/)  to visit the site
   
 ## User Story  
   
